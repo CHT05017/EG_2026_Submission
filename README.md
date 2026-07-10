@@ -3,7 +3,7 @@
 <div align="center">
 
 <p>
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FCHT05017%2FIPR_2025_Accepted&label=Simon-SR&icon=github&color=%230d6efd&message=&style=flat&tz=UTC">
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FCHT05017%2FEG_2026_Submission&label=Simon-SR&icon=github&color=%230d6efd&message=&style=flat&tz=UTC">
 </p>
 
 <p>
