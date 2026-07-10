@@ -7,11 +7,11 @@
 </p>
 
 <p>
-  <strong>Haotong Cheng</strong><sup>1</sup>&emsp;
-  <strong>Yuxuan Li</strong><sup>2</sup>&emsp;
-  <strong>Zijie Cui</strong><sup>3</sup>&emsp;
-  <strong>Rongling Tan</strong><sup>4</sup>&emsp;
-  <strong>Chenyuan Wang</strong><sup>5*</sup>
+  <strong>Haotong Cheng</strong><sup>1*</sup>&emsp;
+  <strong>Yuxuan Li</strong><sup>1</sup>&emsp;
+  <strong>Zijie Cui</strong><sup>1</sup>&emsp;
+  <strong>Rongling Tan</strong><sup>1</sup>&emsp;
+  <strong>Chenyuan Wang</strong><sup>1</sup>
 </p>
 
 <p>
