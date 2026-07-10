@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=6,7 python src/train.py --multi_gpus True --scaler 8 --batch_size 48 --log_dir './BIRDS_LOGS'
+CUDA_VISIBLE_DEVICES=6,7 python src/train.py --multi_gpus True --scaler 16 --batch_size 48 --log_dir './BIRDS_LOGS'
